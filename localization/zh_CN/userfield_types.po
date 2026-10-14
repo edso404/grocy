@@ -53,11 +53,11 @@ msgstr "复选框"
 
 # Select list (a single item can be selected)
 msgid "preset-list"
-msgstr "预设清单"
+msgstr "预设清单 - 单选"
 
 # Select list (multiple items can be selected)
 msgid "preset-checklist"
-msgstr "预设清单"
+msgstr "预设清单 - 多选"
 
 # Link
 msgid "link"
